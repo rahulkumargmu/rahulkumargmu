@@ -52,7 +52,7 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahulkumargmu&theme=dracula" alt="GitHub Streak" /></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumargmu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumargmu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
   <a href="https://github.com/rahulkumargmu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargmu&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 <br/><br/>

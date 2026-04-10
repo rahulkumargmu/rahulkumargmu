@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Security Enthusiast</h3>
 <br/>
 <div align="center">
- 🔭 I'm currently working on **Captcha Security and Web Scraping**
+ 🔭 I'm currently working on Captcha Security and Web Scraping
  
  🌱 I'm currently learning **OWASP and HIPPA**
  

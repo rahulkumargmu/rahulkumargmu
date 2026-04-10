@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Security Analyst from USA </h3>
 <br/>
 <div align="center">
- 🔭 I'm currently working on **OSCP**
+ 🔭 I'm currently working on **Captcha Security** and **Web Scraping**
  
  🌱 I'm currently learning **OWASP and HIPPA**
  
@@ -51,9 +51,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rahulkumargmu&theme=dracula" alt="GitHub Streak" /></a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulkumargmu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" />
-  <a href="https://github.com/rahulkumargmu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumargmu&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rahulkumargmu&theme=dracula" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumargmu&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 <br/><br/>
 <hr/>

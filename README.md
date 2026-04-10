@@ -5,14 +5,16 @@
 <h3 align="center">A passionate Security Analyst from USA </h3>
 <br/>
 <div align="center">
- 🔭 I'm currently working on **Captcha Security** and **Web Scraping**
+ 🔭 I'm currently working on **Captcha Security and Web Scraping**
  
  🌱 I'm currently learning **OWASP and HIPPA**
  
 💬 Ask me about **Security Automation, Vulnerability Assessment... or anything [here](https://github.com/rahulkumargmu/rahulkumargmu/issues)**
- <img src="https://tryhackme-badges.s3.amazonaws.com/Porsia007.png" alt="TryHackMe">
+ 
  </div>
+ 
  <div align="center"> 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Porsia007.png" alt="TryHackMe">
   <a href="mailto:rkumar25@gmu.edu">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=red" />
   </a>
@@ -54,8 +56,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rahulkumargmu&theme=dracula" alt="GitHub Streak" />
   </a>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumargmu&theme=dracula&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 <br/><br/>
 <hr/>

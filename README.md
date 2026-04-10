@@ -14,7 +14,8 @@
  </div>
  
  <div align="center"> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Porsia007.png" alt="TryHackMe">
+     <div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Porsia007.png" alt="TryHackMe"> </div>
   <a href="mailto:rkumar25@gmu.edu">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=red" />
   </a>

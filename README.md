@@ -19,7 +19,7 @@
   <a href="mailto:rkumar25@gmu.edu">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/rahul-kumar-gmu" target="_blank">
+  <a href="https://linkedin.com/in/rahul-kumar-gmu" target="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.rahulkumar.life/" target="_blank">

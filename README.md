@@ -9,7 +9,7 @@
  
  🌱 I'm currently learning **OWASP and HIPPA**
  
-💬 Ask me about **Security Automation, Vulnerability Assessment... or anything at** : rkumar25 [at] gmu [dot] edu
+💬 Ask me about **Security Automation, Vulnerability Assessment... or anything at** : rkumar25[at]gmu[dot]edu
  
  </div>
  
